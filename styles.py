@@ -1,5 +1,5 @@
 THEME = """
-    QWidget { font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #333; }
+    QWidget { font-family: 'Segoe UI', sans-serif; font-size: 14px; color: #333; background-color: #f4f6f9; }
 
     QFrame#Card { background-color: white; border: 1px solid #e0e0e0; border-radius: 8px; }
 
